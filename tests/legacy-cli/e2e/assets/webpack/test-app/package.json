@@ -2,10 +2,10 @@
   "name": "test",
   "license": "MIT",
   "dependencies": {
-    "@angular/common": "^16.1.0-next",
-    "@angular/compiler": "^16.1.0-next",
+    "@angular/common": "^21.1.5",
+    "@angular/compiler": "^21.1.5",
     "@angular/compiler-cli": "^16.1.0-next",
-    "@angular/core": "^16.1.0-next",
+    "@angular/core": "^21.1.5",
     "@angular/platform-browser": "^16.1.0-next",
     "@angular/platform-browser-dynamic": "^16.1.0-next",
     "@angular/router": "^16.1.0-next",
